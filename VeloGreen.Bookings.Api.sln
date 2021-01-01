@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloGreen.Bookings.Api", "src\VeloGreen.Bookings.Api\VeloGreen.Bookings.Api.csproj", "{EDF579E8-4F9E-4F08-9B1B-7831A7AF9412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloGreen.Bookings.Api.Tests", "src\VeloGreen.Bookings.Api.Tests\VeloGreen.Bookings.Api.Tests.csproj", "{1B1C97C5-9269-4EAF-982B-C0116A037283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF579E8-4F9E-4F08-9B1B-7831A7AF9412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF579E8-4F9E-4F08-9B1B-7831A7AF9412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF579E8-4F9E-4F08-9B1B-7831A7AF9412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF579E8-4F9E-4F08-9B1B-7831A7AF9412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1C97C5-9269-4EAF-982B-C0116A037283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1C97C5-9269-4EAF-982B-C0116A037283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1C97C5-9269-4EAF-982B-C0116A037283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1C97C5-9269-4EAF-982B-C0116A037283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

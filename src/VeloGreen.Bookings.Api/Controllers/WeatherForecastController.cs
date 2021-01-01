@@ -8,6 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace VeloGreen.Bookings.Api.Controllers
 {
     [ApiController]
+    [ApiVersion("1.0")]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
